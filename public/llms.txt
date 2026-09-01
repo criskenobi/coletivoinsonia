@@ -1,0 +1,8 @@
+## Pages
+- [Admin Dashboard - Coletivo Insônia](/admindashboard): Painel administrativo do Coletivo Insônia
+- [Bandas - Coletivo Insônia](/bandscatalog): Conheça as bandas que fazem parte do Coletivo Insônia, um espaço de música alternativa e cultura underground.
+- [Classificados - Coletivo Insônia](/classifieds): Compra, venda, troca e busca por músicos. O mercado da cena independente.
+- [Contato - Coletivo Insônia](/contact): Entre em contato com o Coletivo Insônia, cadastre sua banda ou sugira um evento. Estamos sempre abertos a novas parcerias.
+- [Galeria - Coletivo Insônia](/gallery): Explore fotos e vídeos dos shows e eventos do Coletivo Insônia. Reviva os melhores momentos da cena alternativa.
+- [Login Admin - Coletivo Insônia](/adminlogin): Área administrativa do Coletivo Insônia
+- [Sobre - Coletivo Insônia](/about): Conheça a história, missão e valores do Coletivo Insônia, um espaço dedicado à música alternativa e cultura underground.

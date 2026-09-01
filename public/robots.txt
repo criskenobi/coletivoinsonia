@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insonia.minutahq.com/sitemap.xml
